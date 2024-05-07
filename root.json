@@ -1,0 +1,16 @@
+{    
+	"display": {
+        "icon": {
+            "item": "ancientclasses:diamond_staff"
+        },
+        "title": "Ancient Classes",
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "description": "Изучите путь нажав на Alt+C.",
+        "hidden": false
+    },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
