@@ -1,0 +1,380 @@
+{
+	"item_group.ancientclasses": "Ancient Classes",
+
+	//Compat
+	"text.patchouli.multiple_spotlight.soul": "%d дает вам %d душ при поглощении.",
+	"text.patchouli.multiple_spotlight.flower": "%d дает вам %d на %d секунд",
+	"text.patchouli.multiple_spotlight.drumsticks": "%d имеет пищевую ценность %d",
+	"text.patchouli.multiple_spotlight.stones": "%d имеет взрывоустойчивость %d",
+
+	//General
+	"key.categories.ancientclasses": "Ancient Classes",
+	"key.ancientclasses.ability1": "Навык 1",
+	"key.ancientclasses.ability2": "Навык 2",
+	"key.ancientclasses.ability3": "Навык 3",
+	"key.ancientclasses.ability4": "Навык 4",
+	"key.ancientclasses.passive": "Навык 5",
+	"key.ancientclasses.menu": "Меню",
+
+	"enchantment.level.11": "XI",
+	"enchantment.level.12": "XII",
+	"enchantment.level.13": "XII",
+	"enchantment.level.14": "XIV",
+	"enchantment.level.15": "XV",
+
+	//Attributes
+	"attribute.ancientclasses.name.generic.spell_power": "Сила заклинания",
+	"attribute.ancientclasses.name.generic.spell_width": "Радиус заклинания",
+	"attribute.ancientclasses.name.generic.spell_duration": "Длительность заклинания",
+
+	//Effects
+	"effect.ancientclasses.instantaneous_soul": "Мимолетная душа",
+	"effect.ancientclasses.leaf_blessing": "Благословение листа",
+	"effect.ancientclasses.leaf_curse": "Проклятие листа",
+
+	//Modifiers
+	"ability.ancientclasses.modifier.spell_power": "Сила заклинаний",
+	"ability.ancientclasses.modifier.spell_width": "1+Радиус заклинаний",
+	"ability.ancientclasses.modifier.spell_duration": "Длительность заклинания",
+	"ability.ancientclasses.modifier.reach_distance": "Дальность действия",
+	"ability.ancientclasses.modifier.ability_level": "Уровень навыка",
+	"ability.ancientclasses.modifier.ability_cooldown": "15/Уровень пути",
+	"ability.ancientclasses.modifier.branch_level": "Уровень пути",
+	"ability.ancientclasses.modifier.inverse_branch_level": "1/Уровень пути",
+	"ability.ancientclasses.modifier.leaf_temp": "1/Уровень пути+0.25",
+	"ability.ancientclasses.modifier.bone_invocation": "1+Сила заклинаний/2",
+	"ability.ancientclasses.modifier.diamond_hardness": "(Сила заклинаний/2)^10+2.5",
+	"ability.ancientclasses.modifier.diamond_flame": "1+(Урона от огня сохранено*Длительность заклинания)",
+	"ability.ancientclasses.modifier.diamond_knockback": "1+(Урона от взрывов сохранено*20)",
+	"ability.ancientclasses.modifier.diamond_looting": "⌊Урона от снарядов сохранено⌋",
+	"ability.ancientclasses.modifier.diamond_separation": "Радиус заклинаний^2",
+	"ability.ancientclasses.modifier.leaf_effect_level": "⌊Сила заклинаний⌋",
+	"ability.ancientclasses.modifier.leaf_effect_duration": "Длительность заклинания/уровень эффекта",
+
+	//Enchantments
+	"enchantment.ancientclasses.gleam_knot": "Узел души",
+	"enchantment.ancientclasses.gleam_knot.desc": "Позволяет выбрать цель, после чего все ваши заклинания, требующие цели, будут направлены на нее.",
+	"enchantment.ancientclasses.stretch": "Растяжка",
+	"enchantment.ancientclasses.stretch.desc": "Увеличивает радиус заклинаний",
+	"enchantment.ancientclasses.overlong": "Удлинение",
+	"enchantment.ancientclasses.overlong.desc": "Увеличивает дальность действия заклинания",
+	"enchantment.ancientclasses.enhancement": "Усиление",
+	"enchantment.ancientclasses.enhancement.desc": "Увеличивает силу заклинания",
+
+	"enchantment.ancientclasses.daylight": "Дневной свет",
+	"enchantment.ancientclasses.daylight.desc": "Крадитесь для того чтобы вызвать светлую сущность, поглощающую души",
+	"enchantment.ancientclasses.soul_steal": "Похищение души",
+	"enchantment.ancientclasses.soul_steal.desc": "Вы получаете души, причиняя неимоверную боль другим существам",
+	"enchantment.ancientclasses.soul_pouch": "Камень души",
+	"enchantment.ancientclasses.soul_pouch.desc": "Позволяет сохранять существ, для этого подкратитесь к ним и используйте любую лампу, если ее прочность выше 10. Если же ее прочность ниже, то существа внутри исчезают.",
+
+	"enchantment.ancientclasses.hat_trick": "Хет-трик",
+	"enchantment.ancientclasses.hat_trick.desc": "Уменьшает на 1 количество компонентов, поглощаемых навыками за счет прочности",
+
+
+	//Items
+	"item.minecraft.potion.effect.recovering": "Зелье восстановления",
+	"item.minecraft.splash_potion.effect.recovering": "Взрывное зелье восстановления",
+	"item.minecraft.lingering_potion.effect.recovering": "Туманное зелье восстановления",
+	"item.minecraft.tipped_arrow.effect.recovering": "Стрела восстановления",
+
+	"item.ancientclasses.wooden_staff": "Деревянный посох",
+	"item.ancientclasses.gold_staff": "Золотой посох",
+	"item.ancientclasses.emerald_staff": "Изумрудный посох",
+	"item.ancientclasses.diamond_staff": "Алмазный посох",
+	"item.ancientclasses.netherite_staff": "Незеритовый посох",
+	"item.ancientclasses.dragon_staff": "Драконий посох",
+	"item.ancientclasses.staff_companion": "Компаньон: %d",
+	"item.ancientclasses.staff_companion_dead": "Мертвый ккккомпаньон: %d",
+	"item.ancientclasses.staff_companion_denied": "Прочность вашего фонаря слишком низка чтобы хранить какие-либо сущности.",
+	"item.ancientclasses.staff.link": "%d связан.",
+	"item.ancientclasses.staff.unlink": "Развязан",
+
+	"item.ancientclasses.fire_lanternflail": "Лампа огня",
+	"item.ancientclasses.soul_lanternflail": "Лампа душ",
+	"item.ancientclasses.beacon_lanternflail": "Лампа проводника",
+	"item.ancientclasses.lanternflail.wrong_pos": "Дневной свет не может быть использован здесь.",
+
+	"item.ancientclasses.vine_helmet": "Шляпа из виноградной лазы",
+	"item.ancientclasses.vine_chestplate": "Роба из виноградной лозы",
+	"item.ancientclasses.vine_leggings": "Поножи из виноградной лозы",
+	"item.ancientclasses.vine_boots": "Ботинки из виноградной лозы",
+	"item.ancientclasses.warped_helmet": "Искаженная шляпа",
+	"item.ancientclasses.warped_chestplate": "Искаженная роба",
+	"item.ancientclasses.warped_leggings": "Искаженные поножи",
+	"item.ancientclasses.warped_boots": "Искаженные ботинки",
+	"item.ancientclasses.chorus_helmet": "Шляпа из хоруса",
+	"item.ancientclasses.chorus_chestplate": "Роба из хоруса",
+	"item.ancientclasses.chorus_leggings": "Поножи из хоруса",
+	"item.ancientclasses.chorus_boots": "Ботинки из хоруса",
+	"item.ancientclasses.plant_armor.flower": "Следующий цветок: %d",
+
+	"item.ancientclasses.wooden_sickle": "Деревянный серп",
+	"item.ancientclasses.stone_sickle": "Каменный серп",
+	"item.ancientclasses.iron_sickle": "Железный серп",
+	"item.ancientclasses.gold_sickle": "Золотой серп",
+	"item.ancientclasses.diamond_sickle": "Алмазный серп",
+	"item.ancientclasses.netherite_sickle": "Незеритовый серп",
+
+	//GUI
+	"gui.ancientclasses.choosebranch": "Выберите свой путь",
+	"gui.ancientclasses.choosebranch.requires": "Требуется: ",
+	"gui.ancientclasses.branchmenu": "Меню пути",
+	"gui.ancientclasses.branchmenu.unlearned": "Выберите любой навык чтобы начать следовать этому пути",
+
+	"branch.ancientclasses.without_branch": "Нет пути",
+	"branch.ancientclasses.no_ability": "Нет навыка",
+	"ability.ancientclasses.upgradetooltip": "Для прокачки требуется %d XP",
+	"ability.ancientclasses.maxedtooltip": "Максимальный",
+	"ability.ancientclasses.shifttooltip": "Зажмите [SHIFT] для подробной информации",
+	"ability.ancientclasses.passivetooltip": "Пассивный",
+	"ability.ancientclasses.costtooltip": "Стоимость",
+	"ability.ancientclasses.cooldowntooltip": "Перезарядка",
+	"ability.ancientclasses.durationtooltip": "Длительность",
+	"ability.ancientclasses.delaytooltip": "Задержка",
+	"ability.ancientclasses.chargestooltip": "Заряды",
+	"ability.ancientclasses.velocitytooltip": "Скорость",
+	"ability.ancientclasses.lifetooltip": "Здоровье",
+	"ability.ancientclasses.rangetooltip": "Дальность",
+	"ability.ancientclasses.damagetooltip": "Урон",
+	"ability.ancientclasses.healingtooltip": "Исцеление",
+	"ability.ancientclasses.diametertooltip": "Радиус",
+	"ability.ancientclasses.casttimetooltip": "Время произнесения заклинания",
+	"ability.ancientclasses.physicaltooltip": "Физический",
+	"ability.ancientclasses.spelltooltip": "Заклинание",
+
+
+	"slot.ancientclasses.first_slot": "Первый слот",
+	"slot.ancientclasses.second_slot": "Второй слот",
+	"slot.ancientclasses.third_slot": "Третий слот",
+	"slot.ancientclasses.fourth_slot": "Четвертый слот",
+	"slot.ancientclasses.fifth_slot": "Пятый слот",
+
+	//Units
+	"util.ancientclasses.blank": "%d",
+	"util.ancientclasses.seconds": "%d сек",
+	"util.ancientclasses.length": "%d бл.",
+	"util.ancientclasses.health": "%d оч. здоровья",
+	"util.ancientclasses.magic_damage": "%d маг. урон",
+	"util.ancientclasses.attack_damage": "%d урона",
+	"util.ancientclasses.length_second": "%d бл./сек",
+	"util.ancientclasses.percent": "%d %%",
+	"util.ancientclasses.percent_per_second": "%d %%/s",
+	"util.ancientclasses.drumsticks": "%d гол.",
+	"util.ancientclasses.drumstick_point": "%d гол.",
+	"util.ancientclasses.souls": "%d душ",
+	"util.ancientclasses.soul_point": "%d оч. душ",
+	"util.ancientclasses.magic_damage_second": "%d маг. урон/сек",
+	"util.ancientclasses.chunks": "%d чанк.",
+
+	//Branches and Abilities
+	//Stone Branch
+	"branch.ancientclasses.stone_branch": "Путь камня",
+	"branch.ancientclasses.stone_branch.desc": "Станьте сильнее и выносливее",
+
+	"ability.ancientclasses.boost_ability": "Усиление",
+	"ability.ancientclasses.boost_ability.desc": "Ваша рука превращается в камень и становится равной по силе каменной кирке, прибавляя %d.",
+	"ability.ancientclasses.boost_ability.desc.mining": "Потратив один обсидиан, Ваша рука превращается в обсидиан, и становится равной по силе алмазной кирке, прибавляя %d.",
+
+	"ability.ancientclasses.protect_ability": "Защита",
+	"ability.ancientclasses.protect_ability.desc": "Уменьшение %d и дополнительно %d урона, если в инвентаре имеется каменный блок (блок при этом тратится).",
+	"ability.ancientclasses.protect_ability.no_target": "В зоне вашей видимости никого нет, или же у вас нет каменного блока в инвентаре.",
+	"ability.ancientclasses.protect_ability.desc.taunt": "Посмотрев на любого монстра или игрока на расстоянии %d от вас, чтобы спровоцировать его. Если вы атакуете любого монстра, то будете провоцировать и других монстров поблизости в зоне с тем же радиусом.",
+	"ability.ancientclasses.protect_ability.drtooltip": "Сопротивление урону",
+
+	"ability.ancientclasses.dash_ability": "Выпад",
+	"ability.ancientclasses.dash_ability.desc": "Ускорение на %d в направлении взгляда. Нельзя использовать в воздухе.",
+	"ability.ancientclasses.dash_ability.desc.shield": "Если вы используете щит во время бега, то вы оттолкнёте всех существ и уничтожите некоторые блоки на пути выпада.",
+	"ability.ancientclasses.dash_ability.velocitytooltip": "Скорость",
+
+	"ability.ancientclasses.cover_ability": "Прикрытие",
+	"ability.ancientclasses.cover_ability.select": "Выбранный радиус: %d",
+	"ability.ancientclasses.cover_ability.desc": "Мгновенная постройка конструкции, при этом расходуются каменные блоки из вашего инвентаря. Если вы ничего не держите в руке - вы можете регулировать радиус.",
+	"ability.ancientclasses.cover_ability.desc.wall": "Мгновенная постройка полусферы радиусом до %d в направлении вашего взгляда. Доступно только если вы подняли щит.",
+	"ability.ancientclasses.cover_ability.desc.bridge": "Если вы держите в руках какой-либо каменный блок, то вы построите мост в направлении взгляда. .",
+
+	"ability.ancientclasses.stone_passive": "Неподвижность",
+	"ability.ancientclasses.stone_passive.desc": "При передвижении в крадущемся состоянии, вы закрепляетесь на текущей позиции.",
+	"ability.ancientclasses.stone_passive.upsides": "%d Полоска голода, %d Прочность брони",
+	"ability.ancientclasses.stone_passive.downsides": "%d Регенерации, %d Урон инструментов при движении",
+
+
+	//Diamond Branch
+	"branch.ancientclasses.diamond_branch": "Путь алмаза",
+	"branch.ancientclasses.diamond_branch.desc": "Изучите азы магии.",
+
+	"ability.ancientclasses.condense_magic_ability": "Конденсация",
+	"ability.ancientclasses.condense_magic_ability.desc": "Наносит %d выпуская снаряд, летящий со скоростью %d. \nИли создающий область, если в основной руке находится лампа.\nБонусы от зачарованных книг в левой руке:",
+	"ability.ancientclasses.condense_magic_ability.desc.flame": "\u25CF Воспламенение: проджигает цели на %d",
+	"ability.ancientclasses.condense_magic_ability.desc.knockback": "\u25CF Отдача: отталкивает цели на %d за каждый уровень зачарования",
+	"ability.ancientclasses.condense_magic_ability.desc.looting": "\u25CF Добыча: увеличивает добычу с цели в зависимости от уровня зачарования",
+
+
+	"ability.ancientclasses.scatter_magic_ability": "Щит",
+	"ability.ancientclasses.scatter_magic_ability.desc": "Создает щит, снижающий %d всего урона и сохраняющий %d для следующей Конденсации. \nБонусы от зачарованных книг в левой руке:",
+	"ability.ancientclasses.scatter_magic_ability.desc.fire": "\u25CF Огнеупорность: уменьшает урон от огня на %d за каждый уровень зачарования.",
+	"ability.ancientclasses.scatter_magic_ability.desc.blast": "\u25CF Взрывоустойчивость: уменьшает урон от взрывов на %d за каждый уровень зачарования.",
+	"ability.ancientclasses.scatter_magic_ability.desc.projectile": "\u25CF Защита от снарядов: уменьшает урон от снарядов на %d за каждый уровень зачарования.",
+	"ability.ancientclasses.scatter_magic_ability.stored_damage": "Сохранённый урон",
+
+	"ability.ancientclasses.rouse_magic_ability": "Подчинение стихий",
+	"ability.ancientclasses.rouse_magic_ability.desc": "Создает зону в точке взгляда игрока и телепортирует выбранный блок с прочностью < %d но также учитывается степень повреждённости блока. Если Ваша цель воздух, то эффект определяется зачарованной книгой. \nБонусы от зачарованных книг в левой руке:",
+	"ability.ancientclasses.rouse_magic_ability.desc.water": "\u25CF Подводник: тушит все блоки и сущности вокруг.",
+	"ability.ancientclasses.rouse_magic_ability.desc.fire": "\u25CF Заговор огня: подпитывает все блоки, похожие на печь, используя при этом 1 уголь/уровень зачарования",
+	"ability.ancientclasses.rouse_magic_ability.desc.time": "\u25CF Скорость души: уменьшает время обновления для всех блоков в зоне действия заклинания.",
+
+	"ability.ancientclasses.ancient_ritual_ability": "Древний ритуал",
+	"ability.ancientclasses.ancient_ritual_ability.select": "Найти %d",
+	"ability.ancientclasses.ancient_ritual_ability.map": "Карта алмазного пути",
+	"ability.ancientclasses.ancient_ritual_ability.fail.spell_power": "Недостаточно радиуса заклинания",
+	"ability.ancientclasses.ancient_ritual_ability.fail.coordinates": "Ваши координаты не кратны %d",
+	"ability.ancientclasses.ancient_ritual_ability.desc": "Скачок %d\n Или, держа чистую карту в руке, вы можете записать позицию любой структуры с разделителем < %d. Чтобы изменить структуру, нажмите повторно без зажатия.",
+	"ability.ancientclasses.ancient_ritual_ability.desc.restriction": "Может быть сделано только если координаты X или Z кратны %d",
+
+	"ability.ancientclasses.diamond_passive": "Концентрация",
+	"ability.ancientclasses.diamond_passive.desc": "Тратит %d XP и золотое яблоко из вашей руки чтобы зачаровать его.",
+	"ability.ancientclasses.diamond_passive.upsides": "%d XP от сфер опыта, %d Дальность действия.",
+	"ability.ancientclasses.diamond_passive.downsides": "%d Физическая броня, %d Урон в ближнем бою с зачарованиями < 20 уровня",
+
+
+	//Bone Branch	
+	"branch.ancientclasses.bone_branch": "Путь костей",
+	"branch.ancientclasses.bone_branch.desc": "Манипулируйте силой душ ваших врагов",
+
+	"ability.ancientclasses.leech_ability": "Лич",
+	"ability.ancientclasses.leech_ability.desc": "Исцеляет %d, убирает негативные эффекты и дает %d\n Запускает снаряд, летящий со скоростью %d \nИли создаёт зону, если используется лампа. \nМодификаторы навыка при поглощении предметов:",
+	"ability.ancientclasses.leech_ability.desc.damage": "\u25CF Маринованный паучий глаз: наносит %d цели, убирая с неё все положительные эффекты и восстанавливая вам %d",
+	"ability.ancientclasses.leech_ability.desc.soul": "\u25CF Любая ягода: цель восстанавливает %d если у неё есть такой параметр, и она не является вами.",
+
+	"ability.ancientclasses.bargain_ability": "Торг души",
+	"ability.ancientclasses.bargain_ability.desc": "Разделяет или соединяет вас и вашу душу, которая увеличивает урон на %d в радиусе %d от вашего тела, может использовать только заклинания. Если ваши души заканчиваются, то навык отменяется.\nМодификаторы способности при поглощении предметов:",
+	"ability.ancientclasses.bargain_ability.desc.honey": "\u25CF Сверкающий ломтик арбуза: увеличивает исцеление на %d вместо текущего значения.",
+
+	"ability.ancientclasses.ghastling_ability": "Ловчий смерти",
+	"ability.ancientclasses.ghastling_ability.desc": "Вызывает или отпускает %d лошадей-скелетов.\nМодификаторы способности при поглощении предметов:",
+	"ability.ancientclasses.ghastling_ability.desc.ghastling": "\u25CF Слеза гаста: призывает гаста. Приседая, вы можете изменить переносимый блок. Гаст найдёт другие похожие блоки в радиусе %d",
+	"ability.ancientclasses.ghastling_ability.found": "Ваш гаст нашел блок.",
+	"ability.ancientclasses.ghastling_ability.not_found": "Ваш гаст ничего не нашел.",
+	"ability.ancientclasses.ghastling_ability.mana_low": "Ваши лошади исчезают из-за недостатка душ.",
+	"container.ghastling": "Гаст",
+
+
+	"ability.ancientclasses.soulbound_ability": "Душа-скиталец",
+	"ability.ancientclasses.soulbound_ability.desc": "Привязывает сущность к блоку на расстоянии %d или меньше и блокирует какие-либо межпространственные перемещения. Данная связь неразрушима, пока блок, к которому привязана сущность, не будет уничтожен. \nМодификаторы способности при поглощении предметов::",
+	"ability.ancientclasses.soulbound_ability.desc.totem": "\u25CF Тотем бессмертия: при смерти связанной сущности сохраняет её, чтобы игрок мог воскресить ее позже.",
+	"ability.ancientclasses.soulbound_ability.entity_respawn": "Появление: %d",
+	"ability.ancientclasses.soulbound_ability.fail.entity": "В качестве цели выбрана некорректная сущность.",
+	"ability.ancientclasses.soulbound_ability.fail.block": "В качестве цели выбран некорректный блок.",
+	"ability.ancientclasses.soulbound_ability.fail.range": "Цели слишком далеко друг от друга",
+	"ability.ancientclasses.soulbound_ability.player_respawn.desc": "Ваша душа была привязана.",
+	"ability.ancientclasses.soulbound_ability.player_respawn.button": "Попробовать снова?",
+	"death.attack.soulbound": "Душа %1$s была поглощена",
+	"death.attack.soulbound.player": "Душа %1$s была поглощена, пока сражалась с %2$s",
+
+	"ability.ancientclasses.bone_passive": "Чистилище",
+	"ability.ancientclasses.bone_passive.desc": "Показывает местоположение, здоровье, голод, души, положительные и отрицательные эффекты всех сущностей в радиусе 32 блоков.",
+	"ability.ancientclasses.bone_passive.upsides": "%d к количеству душ, нейтрален по отношению к нечисти при уровне освещения < %d",
+	"ability.ancientclasses.bone_passive.downsides": "%d максимального здоровья, горит при ярком солнце или расходует прочность шлема %d прочность/сек",
+
+
+	//Feather Branch
+	"branch.ancientclasses.feather_branch": "Путь пера",
+	"branch.ancientclasses.feather_branch.desc": "Охотьтесь на своих врагов",
+
+	"ability.ancientclasses.precise_shot_ability": "Прицельный выстрел",
+	"ability.ancientclasses.precise_shot_ability.desc": "Даёт %d зарядов. Вы можете потратить их на запуск снарядов, которые будут иметь на %d больше прироста импульса, или даже разбивать блоки.",
+	"ability.ancientclasses.precise_shot_ability.desc.potion": "Также вы можете использовать зелье в своей левой руке, чтобы пропитать %d стрел из инвентаря.",
+
+	"ability.ancientclasses.agile_hands_ability": "Ловкие руки",
+	"ability.ancientclasses.agile_hands_ability.desc": "В радиусе %d, ловит все снаряды и помещает их в инвентарь. Если места в инвентаре недостаточно - снаряды будут сброшены как предметы.",
+	"ability.ancientclasses.agile_hands_ability.desc.reflect": "Держа поводок в руке, вы можете перенаправить снаряды по направлению взгляда.",
+
+	"ability.ancientclasses.slide_hook_ability": "Зацеп",
+	"ability.ancientclasses.slide_hook_ability.desc": "Вы становитесь невесомым и двигаетесь в направлении вашего взгляда со скоростью %d.",
+	"ability.ancientclasses.slide_hook_ability.desc.projectile": "При поглощении сгустка слизи из левой руки, вы можете ненадолго прилипнуть к вашему следующему выпущенному снаряду.",
+
+	"ability.ancientclasses.hunter_hints_ability": "Охотничьи инстинкты",
+	"ability.ancientclasses.hunter_hints_ability.desc": "Вы подбираете все лежащие от вас предметы в радиусе %d вокруг вас.",
+	"ability.ancientclasses.hunter_hints_ability.desc.find": "При поглощении кусочка еды из любой руки, вы можете приманить %d существ того же типа, что и последнее убитое вами, если оно имеет здоровье, равное питательности поглощенной еды, в области радиусом %d вокруг вас",
+	"ability.ancientclasses.hunter_hints_ability.fail.wrong_food": "%d нельзя использовать для приманки %d",
+	"ability.ancientclasses.hunter_hints_ability.fail.no_kill": "Вы не убили ни одного существа.",
+	"ability.ancientclasses.hunter_hints_ability.desc.last": "Ваше последнее убитое существо:",
+	"ability.ancientclasses.hunter_hints_ability.desc.nobody": "Никто",
+
+	"ability.ancientclasses.feather_passive": "Неумолимость",
+	"ability.ancientclasses.feather_passive.desc": "Ваша скорость не может уменьшиться ниже базовой. Если вы крадетесь, то скорость фиксируется на 100%",
+	"ability.ancientclasses.feather_passive.upsides": "%d скорости передвижения, %d сокращение времени восстановления предметов.",
+	"ability.ancientclasses.feather_passive.downsides": "%d заблокированных слотов, пассивные существа вокруг вас паникуют в радиусе %d, если вы не крадетесь или не под зельем невидимости.",
+
+
+	//Leaf Branch
+	"branch.ancientclasses.leaf_branch": "Путь листа",
+	"branch.ancientclasses.leaf_branch.desc": "Станьте другом природы",
+
+	"ability.ancientclasses.equilibrate_ability": "Равновесие",
+	"ability.ancientclasses.equilibrate_ability.desc": "Поглощает цветы, запуская снаряд, летящий со скоростью %d \nИли создаёт область, если используется лампа.",
+	"ability.ancientclasses.equilibrate_ability.desc.effect": "\u25CF Эффект совпадает с эффектом от подозрительного рагу, продолжительность которого составляет %d, а уровень эффекта %d",
+	"ability.ancientclasses.equilibrate_ability.fail.flowers": "Недостаточно цветов",
+
+	"ability.ancientclasses.imitate_ability_player": "Трансформация",
+	"ability.ancientclasses.imitate_ability_player.desc": "Вернуть человеческую форму",
+	//Sub Abilities
+	"ability.ancientclasses.imitate_ability_cow": "Трансформация в корову",
+	"ability.ancientclasses.imitate_ability_cow.desc": "Вы можете подоить себя, держа в руке ведро.",
+	"ability.ancientclasses.imitate_ability_turtle": "Трансформация в черепаху",
+	"ability.ancientclasses.imitate_ability_turtle.desc": "Вы получаете эффект сопротивления на %d",
+	"ability.ancientclasses.imitate_ability_ocelot": "Трансформация в оцелота",
+	"ability.ancientclasses.imitate_ability_ocelot.desc": "Вы получаете эффект скорости на %d",
+	"ability.ancientclasses.imitate_ability_chicken": "Трансформация в курицу",
+	"ability.ancientclasses.imitate_ability_chicken.desc": "Вы получаете эффект замедленного падения на %d",
+	"ability.ancientclasses.imitate_ability_squid": "Трансформация в спрута",
+	"ability.ancientclasses.imitate_ability_squid.desc": "Вы можете создать чернильное облако, накладывающее эффект невидимости на %d на всех существ находящихся внутри него.",
+	"ability.ancientclasses.imitate_ability_pig": "Трансформация в свинью",
+	"ability.ancientclasses.imitate_ability_pig.desc": "Вы можете посадить на себя любое живое существо, имеющее меньше удвоенного от вашего максимального запаса здоровья",
+	"ability.ancientclasses.imitate_ability_pig.fail.mount": "Вы не можете посадить это существо верхом",
+
+	"ability.ancientclasses.overgrowth_ability": "Буйный рост",
+	"ability.ancientclasses.overgrowth_ability.desc": "Поглощает костную муку из вашего инвентаря чтобы умножить саженцы, бревна, доски, маленькие цветы, листья и прочие культуры на 20 каждую секунду, если позволяет местность.",
+	"ability.ancientclasses.overgrowth_ability.fail.no_bone": "Недостаточно костной муки.",
+	"ability.ancientclasses.overgrowth_ability.fail.invalid_material": "Этот материал не может быть умножен.",
+
+	"ability.ancientclasses.morph_ability": "Превращение",
+	"ability.ancientclasses.morph_ability.desc": "Вы можете изучить превращение в пассивных существ, для этого надо присесть и повзаимодействовать с нужным. Все ваши характеристики будут изменены на %d от характеристик существа. Используйте этот навык в паре с Трансформацией.",
+	"ability.ancientclasses.morph_ability.desc.list": "Вы можете превратиться в:",
+	"ability.ancientclasses.morph_ability.learn": "Теперь вы можете превращаться в %d",
+	"ability.ancientclasses.morph_ability.alreadylearn": "Вы уже можете превращаться в %d",
+	"ability.ancientclasses.morph_ability.cantlearn": "Вы не можете превращаться в %d",
+	"ability.ancientclasses.morph_ability.select": "Превращение в: %d",
+	"ability.ancientclasses.morph_ability.fail.player": "Вы уже в человеческой форме.",
+	"ability.ancientclasses.morph_ability.fail.select": "Вы ещё не изучили превращение в %d",
+
+
+	"ability.ancientclasses.leaf_passive": "Баланс",
+	"ability.ancientclasses.leaf_passive.desc": "Распределяет длительность всех действующих эффектов поровну.",
+	"ability.ancientclasses.leaf_passive.upsides": "%d продолжительность негативных эффектов, %d прочность/сек брони и оружия в пределах 25%%-75%%",
+	"ability.ancientclasses.leaf_passive.downsides": "%d скорости атаки, %d длительность положительных эффектов при повторном применении.",
+	"ability.ancientclasses.leaf_passive.fail.size": "Вам нужно по крайней мере два эффекта для этого.",
+
+	//Entities
+	"entity.ancientclasses.condense_spell": "Конденсация",
+	"entity.ancientclasses.scatter_spell": "Щит",
+	"entity.ancientclasses.rouse_spell": "Стихии",
+
+	"entity.ancientclasses.bargain_spell": "Душа",
+	"entity.ancientclasses.soulbound_spell": "Привязанная душа",
+
+	"entity.ancientclasses.equilibrate_spell": "Равновесие",
+	"entity.ancientclasses.ink_cloud": "Облако чернил",
+
+	"entity.ancientclasses.ghastling": "Гаст",
+	"entity.ancientclasses.empty_body": "Пустое тело",
+	"entity.ancientclasses.bone_horse": "Лошадь-скелет",
+	"entity.ancientclasses.soul_knot": "Узел души",
+	"entity.ancientclasses.soul_light": "Свет души",
+
+	//Util
+	"helper.ancientclasses.casthelp1": "Используйте с %d в руке, а затем зажмите навык",
+	"helper.ancientclasses.casthelp2": "Подержите немного больше",
+	"helper.ancientclasses.casthelp.need_casting": "Для использования данного навыка, необходимо зажать кнопку",
+	"helper.ancientclasses.casthelp.need_resource": "Недостаточно %d"
+}
